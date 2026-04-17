@@ -53,6 +53,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "swap",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "c257aafc-8da9-4e0a-b738-5ec3def5eeb7",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "The new Disney horse model has been successfully swapped into your scene! \n\n**Changes applied:**\n1.  **Replaced the old model** with `Horse_White_Disney.prefab` at the exact same position.\n2.  **Transferred all logic:** The `HorseController`, `Rigidbody`, and stats have been set up on the new model.\n3.  **Updated Camera & UI:** The Cinemachine camera is now following the new horse, and the HUD correctly displays its stats.\n\nYou can now test the movement and jumping with the new stylized character. Is there anything else you'd like to refine?",
+      "snapshot_message_type": 1
     }
   ]
 }
