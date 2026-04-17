@@ -519,6 +519,7 @@ GameObject:
   - component: {fileID: 1253460217}
   - component: {fileID: 1253460216}
   - component: {fileID: 1253460218}
+  - component: {fileID: 1253460219}
   m_Layer: 0
   m_Name: UI
   m_TagString: Untagged
@@ -607,6 +608,18 @@ MonoBehaviour:
     price: 1000
     isCoins: 1
     isBought: 0
+--- !u!114 &1253460219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253460215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddaff2a04284e4fe382edaa23f2f92af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HUDController
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
