@@ -1,0 +1,27 @@
+{
+    "asset": "e3db03ed18de0464f8d845401a61e7cc",
+    "fileName": "019d9b13-d5e2-7796-a0ff-3ca06af676ac.jpg",
+    "prompt": "Stylized horse head icon, Disney Pixar style, 2D game icon, white background",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "24ad0ac6f6c80c877ab5d348648b53f7",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

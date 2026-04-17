@@ -1,0 +1,27 @@
+{
+    "asset": "9c1a983998b3f42109be5064640b437d",
+    "fileName": "019d9b13-7e65-7a04-9742-ff96a306afe7.jpg",
+    "prompt": "Stylized shiny blue gem, Disney Pixar style, 2D game icon, white background",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "8215b3cd20724b1873b54b5150aff895",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,27 @@
+{
+    "asset": "5df7bd202dc5242939dd93a15840ab26",
+    "fileName": "019d9b13-9b99-7014-8579-19b6fcf94c3a.jpg",
+    "prompt": "Stylized home icon, house silhouette, Disney Pixar style, 2D game icon, white background",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "9bf133e750a10067c8a30c265925670f",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -113,6 +113,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "create UI toolkit interface for a mobile screen. So at the bottom there should be four rectangle buttons, like a tabs, and they should take as much horizontal space as possible, but still be square, every button. Then each button has to have an icon on it. And on the top of the screen, on the left, it must be a counter for gems, and then on the right it must be a counter for coins with icons.",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "6607090b-6995-43ad-9b86-7d20f25396c6",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "icon_home png generation is taking too long time. restart it",
+      "snapshot_message_type": 0
     }
   ]
 }
