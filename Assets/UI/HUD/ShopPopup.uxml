@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Style src="ShopPopup.uss" />
+    <ui:VisualElement name="shop-root" class="shop-root" style="display: none;">
+        <ui:VisualElement name="shop-container" class="shop-container">
+            <ui:VisualElement name="shop-header" class="shop-header">
+                <ui:Label text="HORSE SHOP" class="shop-title" />
+                <ui:Button name="close-button" text="X" class="close-button" />
+            </ui:VisualElement>
+            <ui:ScrollView name="horse-list" class="horse-list">
+                <!-- Horse Items will be added here via script -->
+            </ui:ScrollView>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,7 +1,8 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <ui:Style src="MobileMenu.uss" />
+    <ui:Style src="ShopPopup.uss" />
     <ui:VisualElement name="screen-root" class="screen-root">
-        <ui:VisualElement name="top-bar" class="top-bar">
+<ui:VisualElement name="top-bar" class="top-bar">
             <ui:VisualElement name="gems-counter" class="counter-container">
                 <ui:VisualElement name="gem-icon" class="counter-icon gem-icon" />
                 <ui:Label text="1,000" class="counter-text" />
@@ -11,8 +12,22 @@
                 <ui:Label text="5,000" class="counter-text" />
             </ui:VisualElement>
         </ui:VisualElement>
+        
+        <!-- Shop Popup Embedded -->
+        <ui:VisualElement name="shop-root" class="shop-root" style="display: none;">
+            <ui:VisualElement name="shop-container" class="shop-container">
+                <ui:VisualElement name="shop-header" class="shop-header">
+                    <ui:Label text="HORSE SHOP" class="shop-title" />
+                    <ui:Button name="close-button" text="X" class="close-button" />
+                </ui:VisualElement>
+                <ui:ScrollView name="horse-list" class="horse-list">
+                    <!-- Horse Items will be added here via script -->
+                </ui:ScrollView>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
         <ui:VisualElement name="bottom-tabs" class="bottom-tabs">
-            <ui:Button name="tab-home" class="tab-button">
+<ui:Button name="tab-home" class="tab-button">
                 <ui:VisualElement name="icon" class="tab-icon home-icon" />
             </ui:Button>
             <ui:Button name="tab-horses" class="tab-button">
