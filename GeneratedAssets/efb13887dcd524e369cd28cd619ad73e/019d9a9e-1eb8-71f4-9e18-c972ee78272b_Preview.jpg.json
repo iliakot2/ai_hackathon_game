@@ -1,0 +1,12 @@
+{
+    "asset": "efb13887dcd524e369cd28cd619ad73e",
+    "fileName": "019d9a9e-1eb8-71f4-9e18-c972ee78272b_Preview.jpg",
+    "prompt": "vibrant green picturesque lawn grass, hand-painted stylized, Disney Pixar style, tileable, seamless texture, lush and soft look",
+    "negativePrompt": "",
+    "model": "dbb35e61-f5e2-4e71-a7af-b563ed9472ed",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 1564144495,
+    "w3CTraceId": "124880189db81aca0d67d7e26e85aad8",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

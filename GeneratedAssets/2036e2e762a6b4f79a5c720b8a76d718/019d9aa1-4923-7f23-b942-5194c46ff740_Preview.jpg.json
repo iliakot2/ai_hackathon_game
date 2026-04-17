@@ -1,0 +1,12 @@
+{
+    "asset": "2036e2e762a6b4f79a5c720b8a76d718",
+    "fileName": "019d9aa1-4923-7f23-b942-5194c46ff740_Preview.jpg",
+    "prompt": "vibrant dark green patches of grass, hand-painted stylized, Disney Pixar style, tileable, seamless texture, matches StylizedGrass.mat but darker",
+    "negativePrompt": "",
+    "model": "dbb35e61-f5e2-4e71-a7af-b563ed9472ed",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 740505529,
+    "w3CTraceId": "72a0959bed056ffacdcaf2c904de0f71",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

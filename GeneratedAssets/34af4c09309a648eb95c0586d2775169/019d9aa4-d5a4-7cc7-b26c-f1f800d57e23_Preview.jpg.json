@@ -1,0 +1,12 @@
+{
+    "asset": "34af4c09309a648eb95c0586d2775169",
+    "fileName": "019d9aa4-d5a4-7cc7-b26c-f1f800d57e23_Preview.jpg",
+    "prompt": "lime green patches of grass, stylized cartoon, Disney Pixar style, soft edges, tileable texture, matches Grass_VibrantGreen but lighter and brighter",
+    "negativePrompt": "",
+    "model": "dbb35e61-f5e2-4e71-a7af-b563ed9472ed",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 1161117613,
+    "w3CTraceId": "30af71ea3e559b882732b00aac803ca9",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

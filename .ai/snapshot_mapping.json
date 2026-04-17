@@ -71,6 +71,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "try again",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "8e1f3585-d51c-460b-82cc-4c96c1d13cfe",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "add WASD controls to move the horse around level",
+      "snapshot_message_type": 0
     }
   ]
 }
