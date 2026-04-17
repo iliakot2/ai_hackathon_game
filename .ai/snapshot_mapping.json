@@ -11,6 +11,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "The implementation plan for the **Horse Farm Simulator** has been approved and is saved at `Assets/Plans/horse-farm-simulator.md`.\n\nWould you like me to begin executing the plan now?",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "INT_2",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "yes",
+      "snapshot_message_type": 0
     }
   ]
 }
