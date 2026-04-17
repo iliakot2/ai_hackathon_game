@@ -14,14 +14,14 @@
 .counter-container {
     flex-direction: row;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 5px 15px;
-    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px 45px;
+    border-radius: 60px;
 }
 
 .counter-icon {
-    width: 30px;
-    height: 30px;
+    width: 90px;
+    height: 90px;
 }
 
 .gem-icon {
@@ -34,16 +34,20 @@
 
 .counter-text {
     color: white;
-    font-size: 20px;
+    font-size: 60px;
     -unity-font-style: bold;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 
 .bottom-tabs {
     flex-direction: row;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
 }
 
 .tab-button {
