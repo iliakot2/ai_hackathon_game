@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Style src="HorseWorldUI_UIT.uss" />
+    <ui:VisualElement name="root" class="world-ui-root">
+        <ui:VisualElement name="stats-container" class="stats-container">
+            <ui:ProgressBar name="hunger-bar" title="HUNGER" class="stat-bar hunger" />
+            <ui:ProgressBar name="stamina-bar" title="STAMINA" class="stat-bar stamina" />
+        </ui:VisualElement>
+        <ui:VisualElement name="actions-container" class="actions-container">
+            <ui:Button name="feed-button" text="FEED" class="action-button feed" />
+            <ui:Button name="ride-button" text="RIDE" class="action-button ride" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,58 @@
+.world-ui-root {
+    width: 400px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.stats-container {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.stat-bar {
+    margin-bottom: 5px;
+    height: 30px;
+}
+
+.stat-bar .unity-progress-bar__progress {
+    border-radius: 5px;
+}
+
+.hunger .unity-progress-bar__progress {
+    background-color: #ff4d4d;
+}
+
+.stamina .unity-progress-bar__progress {
+    background-color: #4da6ff;
+}
+
+.actions-container {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.action-button {
+    flex-grow: 1;
+    height: 60px;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: white;
+    border-width: 0;
+}
+
+.feed {
+    background-color: #4CAF50;
+}
+
+.ride {
+    background-color: #ff9800;
+}
+
+.action-button:active {
+    opacity: 0.8;
+}
