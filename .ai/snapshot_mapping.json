@@ -203,6 +203,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "I have successfully added the world-space billboard UI to the **Horse White Disney**.\n\n### Features Implemented:\n1.  **World-Space Billboard UI**: A canvas now floats above the horse and always rotates to face the camera.\n2.  **Stats Management**:\n    *   **Hunger & Stamina Bars**: Two progress bars (Red for Hunger, Blue for Stamina) are displayed.\n    *   **Automatic Growth**: Both hunger and stamina values naturally increase over time as requested.\n3.  **Interactive Buttons**:\n    *   **FEED**: Deducts **5 coins** and decreases the hunger bar.\n    *   **RIDE**: Decreases the stamina bar and rewards you with **50 coins**.\n4.  **Reward Popup**: When you finish a ride, a screen-space popup appears with the message *\"ride complete, you reward is 50 coins\"* and a **CLOSE** button to dismiss it.\n5.  **Data & Currency**:\n    *   Updated `HorseData.cs` to include a stamina stat.\n    *   Updated `CurrencyManager.cs` with methods to add coins, ensuring the reward system is fully functional.\n\nYou can now interact with your horse directly in the game world to manage its care and earn rewards! Is there anything else you'd like to add to your horse simulator?",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "5cb89b84-e3c0-4720-90f2-48c8d2c328e0",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "create another version of hourse UI with feed and ride buttons using UIToolkit and UIBuilder, and make it world ui which is always oriented to camera like a billboard",
+      "snapshot_message_type": 0
     }
   ]
 }
