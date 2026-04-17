@@ -83,6 +83,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "I have added and configured the **WASD controls** for the horse using the New Input System.\n\n**Changes applied:**\n1.  **Added `PlayerInput` Component:** Attached to the `Horse_Disney_White` GameObject.\n2.  **Configured Input Actions:** Assigned the `InputSystem_Actions.inputactions` asset, which includes WASD bindings for movement and Space for jumping.\n3.  **Linked Controls to Logic:** Set the `Notification Behavior` to **Send Messages**, which automatically triggers the `OnMove` and `OnJump` methods in your `HorseController` script.\n\nYou can now use **W/A/S/D** or **Arrow Keys** to move the horse and **Space** to jump. Enter Play Mode to try it out! mode to test the Mode to test the controls!",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "238cf822-ed43-427a-99a9-afd8e5be7452",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "add jump to horse by pressing specebar",
+      "snapshot_message_type": 0
     }
   ]
 }
