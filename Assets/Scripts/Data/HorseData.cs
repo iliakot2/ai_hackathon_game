@@ -18,6 +18,10 @@ public class HorseData : ScriptableObject
     [Range(0, 1)]
     public float cleanliness = 0.5f;
 
+    [Range(0, 1)]
+    public float stamina = 1.0f;
+
     public bool NeedsFeeding => hunger < 0.3f;
     public bool NeedsWashing => cleanliness < 0.3f;
-}
+    public bool IsTired => stamina < 0.2f;
+    }

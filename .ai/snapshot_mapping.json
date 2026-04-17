@@ -191,6 +191,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "ad worldview billboard UI to the Horse White Disney which will have 2 progress bars at the top - hunger and stamina. and 2 buttons at the bottom - Feed and Ride. hunger and stamina increases with time. when \"feed\" is pressed hunger decreases and 5 coins are deducted . when pressing \"ride\" stamina decreases and comes popup window saying \"ride complete, you reward is 50 coins\" and close button.",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "0536a294-57a3-479f-aeab-ae8a4edde934",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "previous step got stuck, please continue it",
+      "snapshot_message_type": 0
     }
   ]
 }
