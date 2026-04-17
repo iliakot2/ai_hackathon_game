@@ -1,0 +1,12 @@
+{
+    "asset": "deb4d1a5f2d014d3093aa791bf1d401b",
+    "fileName": "019d9b9e-9252-7d8b-a5b3-9f411b52b311.pose.json",
+    "prompt": "horse walking animation, quadruped gait, slow and steady pace",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 272501689,
+    "w3CTraceId": "09098618c3a1c479fc7cf4c3b2a1e963",
+    "feedback": 0,
+    "isTrimmed": false
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "229225c20021d415491c824c87b18ffb",
+    "fileName": "019d9b9e-0d4b-7c16-805f-9f62c719a93a.glb",
+    "prompt": "Fully rigged 3D horse model with 4 legs, skeleton included, Disney style, white coat, T-pose or neutral pose, production ready for animation.",
+    "negativePrompt": "",
+    "model": "ad4a4adb-a4bb-4522-952a-13c3f79fa56b",
+    "modelName": "Rodin Hyper 3D Gen2",
+    "customSeed": -1,
+    "w3CTraceId": "2082e6d522f44f2a09d77e076ff3b1a4",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
