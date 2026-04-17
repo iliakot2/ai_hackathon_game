@@ -34,30 +34,37 @@ public class HorseController : MonoBehaviour
         CheckGround();
         ApplyRotation();
         UpdateAnimator();
-    }
 
-    private void FixedUpdate()
-    {
-        ApplyMovement();
-    }
-
-    public void OnMove(InputValue value)
-    {
-        moveInput = value.Get<Vector2>();
+        // Fallback/Direct input for jumping to ensure responsiveness
+        if (Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame)
+        {
+            Jump();
+        }
     }
 
     public void OnJump(InputValue value)
+    {
+        Jump();
+    }
+
+    private void Jump()
     {
         if (isGrounded)
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             if (animator != null) animator.SetTrigger("Jump");
+            Debug.Log("Horse Jumped!");
         }
     }
 
     private void CheckGround()
     {
-        isGrounded = Physics.Raycast(transform.position + Vector3.up * 0.1f, Vector3.down, groundCheckDistance + 0.1f, groundLayer);
+        Vector3 rayStart = transform.position + Vector3.up * 0.1f;
+        float rayDistance = groundCheckDistance + 0.1f;
+        isGrounded = Physics.Raycast(rayStart, Vector3.down, rayDistance, groundLayer);
+        
+        // Debug visual in Scene View
+        Debug.DrawRay(rayStart, Vector3.down * rayDistance, isGrounded ? Color.green : Color.red);
     }
 
     private void ApplyMovement()

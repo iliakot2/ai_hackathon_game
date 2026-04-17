@@ -32524,6 +32524,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Horse_Disney_White
       objectReference: {fileID: 0}
+    - target: {fileID: 4111652367601469466, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32566,11 +32570,11 @@ MonoBehaviour:
   horseData: {fileID: 1681868941}
   moveSpeed: 5
   rotationSpeed: 100
-  jumpForce: 5
-  groundCheckDistance: 0.2
+  jumpForce: 8
+  groundCheckDistance: 0.3
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1
 --- !u!136 &1892343392
 CapsuleCollider:
   m_ObjectHideFlags: 0

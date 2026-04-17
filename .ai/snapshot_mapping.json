@@ -89,6 +89,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "add jump to horse by pressing specebar",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "00e892c9-52a1-4fba-9136-90b72b598f0a",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "I have successfully added and optimized the **jumping functionality** for the horse.\n\n**Key Updates:**\n1.  **Robust Jumping Logic:** I updated the `HorseController` to handle jumping via both the `PlayerInput` system and direct **Spacebar** detection for maximum responsiveness.\n2.  **Improved Ground Detection:** \n    *   Moved the horse to a new **\"Player\" layer** to prevent it from hitting itself with its own ground-check raycast.\n    *   Added a **Debug Ray** in the Scene View: it will show as **Green** when the horse is grounded and **Red** when airborne.\n3.  **Dynamic Jump:** Increased the `Jump Force` to **8.0** to provide a more expressive, \"Disney-style\" leap.\n\nYou can now press **Spacebar** to make the horse jump. Enter Play Mode to see the new jumping mechanics in action! mode to test it out! mode to test the jumping!",
+      "snapshot_message_type": 1
     }
   ]
 }
