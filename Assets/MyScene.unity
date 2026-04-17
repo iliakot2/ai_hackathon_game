@@ -733,6 +733,63 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddaff2a04284e4fe382edaa23f2f92af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HUDController
+--- !u!1001 &1609553617
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.72726357
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.2588191
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9659258
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 2768320918670592153, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111652367601469466, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
+      propertyPath: m_Name
+      value: Horse_White_Disney
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9637a8fdfd9a44febb5ceb7aaef84c2f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -743,3 +800,4 @@ SceneRoots:
   - {fileID: 347516923}
   - {fileID: 922913048}
   - {fileID: 671784701}
+  - {fileID: 1609553617}

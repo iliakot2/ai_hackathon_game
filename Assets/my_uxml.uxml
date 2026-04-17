@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="FarmHUD" src="project://database/Assets/UI/HUD/FarmHUD.uxml?fileID=9197481963319205126&amp;guid=9d382bbf6c71b44db9f14ee96022e454&amp;type=3#FarmHUD"/>
+    <ui:Template name="MobileMenu" src="project://database/Assets/UI/HUD/MobileMenu.uxml?fileID=9197481963319205126&amp;guid=5b53db4218022429eb4e63b0db6e7a7f&amp;type=3#MobileMenu"/>
+    <ui:Instance template="FarmHUD"/>
+    <ui:Instance template="MobileMenu"/>
+    <ui:Instance template="MobileMenu"/>
+</ui:UXML>
