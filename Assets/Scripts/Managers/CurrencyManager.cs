@@ -47,4 +47,15 @@ public class CurrencyManager : MonoBehaviour
         }
         return false;
     }
+public void AddCoins(int amount)
+{
+    coins += amount;
+    OnCurrencyChanged?.Invoke();
+}
+
+public void AddGems(int amount)
+{
+    gems += amount;
+    OnCurrencyChanged?.Invoke();
+}
 }
