@@ -1,0 +1,12 @@
+{
+    "asset": "6cc5571931b584492b8a1809944414a6",
+    "fileName": "019d9b0d-f6d5-7528-85c8-1bbcca628457.pose.json",
+    "prompt": "horse jumping animation, leaping over an obstacle, quadruped motion",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 2035349812,
+    "w3CTraceId": "8c9854266bb6229b54efb31b6bcfc23d",
+    "feedback": 0,
+    "isTrimmed": false
+}

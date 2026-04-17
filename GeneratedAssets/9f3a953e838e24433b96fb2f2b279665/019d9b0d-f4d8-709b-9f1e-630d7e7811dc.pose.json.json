@@ -1,0 +1,12 @@
+{
+    "asset": "9f3a953e838e24433b96fb2f2b279665",
+    "fileName": "019d9b0d-f4d8-709b-9f1e-630d7e7811dc.pose.json",
+    "prompt": "horse running animation, galloping, quadruped motion",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 576438295,
+    "w3CTraceId": "29dd1dd7f8799919b515509c1d1e4547",
+    "feedback": 0,
+    "isTrimmed": false
+}

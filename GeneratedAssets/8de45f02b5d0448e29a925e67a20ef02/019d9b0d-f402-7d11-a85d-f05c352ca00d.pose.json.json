@@ -1,0 +1,12 @@
+{
+    "asset": "8de45f02b5d0448e29a925e67a20ef02",
+    "fileName": "019d9b0d-f402-7d11-a85d-f05c352ca00d.pose.json",
+    "prompt": "horse idle animation, breathing slightly, quadruped motion",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 1454727837,
+    "w3CTraceId": "74b187e4ac9283ef28603dec32d1f942",
+    "feedback": 0,
+    "isTrimmed": false
+}
