@@ -1,0 +1,27 @@
+{
+    "asset": "d6caccd31106c4caca3c0a63e824c9c7",
+    "fileName": "019d9a7c-6faf-72ff-9b33-579ca5e1b262.jpg",
+    "prompt": "Stylized 3D horse character, Disney Pixar style, large expressive eyes, vibrant brown coat, cute and friendly, standing pose, neutral background, high-quality game asset concept art.",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "858e49b0d3a7c12d99060b4834db3d93",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

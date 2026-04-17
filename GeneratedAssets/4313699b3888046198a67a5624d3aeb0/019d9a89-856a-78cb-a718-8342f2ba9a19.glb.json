@@ -1,0 +1,12 @@
+{
+    "asset": "4313699b3888046198a67a5624d3aeb0",
+    "fileName": "019d9a89-856a-78cb-a718-8342f2ba9a19.glb",
+    "prompt": "Stylized 3D horse model, Disney Pixar style, vibrant brown coat, friendly expression, production-ready topology.",
+    "negativePrompt": "",
+    "model": "ad4a4adb-a4bb-4522-952a-13c3f79fa56b",
+    "modelName": "Rodin Hyper 3D Gen2",
+    "customSeed": -1,
+    "w3CTraceId": "1846d74669e8e14fb85cca6f5a64bfda",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

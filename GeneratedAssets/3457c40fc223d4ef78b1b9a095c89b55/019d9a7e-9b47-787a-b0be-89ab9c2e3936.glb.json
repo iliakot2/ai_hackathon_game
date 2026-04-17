@@ -1,0 +1,12 @@
+{
+    "asset": "3457c40fc223d4ef78b1b9a095c89b55",
+    "fileName": "019d9a7e-9b47-787a-b0be-89ab9c2e3936.glb",
+    "prompt": "Stylized 3D obstacle, wooden plank, cartoon style, bright colors, clean topology.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "f6172c261fd34df9678d09775f8370c4",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

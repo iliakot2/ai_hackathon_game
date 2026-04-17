@@ -1,0 +1,12 @@
+{
+    "asset": "b59bd138e2a844ba3a3b8942a8eecfcc",
+    "fileName": "019d9a7e-2492-7f69-b68c-744321968493.glb",
+    "prompt": "Stylized 3D obstacle, water puddle, cartoon style, bright blue water, reflective surface, simple geometry.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "6fabc37ce313c6ab7a1f977b999fc0d7",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

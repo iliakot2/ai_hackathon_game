@@ -1,0 +1,12 @@
+{
+    "asset": "148dc0c49949f4766b4031389d0f830f",
+    "fileName": "019d9a7e-f4e6-7c32-a748-69bca60d50cf.glb",
+    "prompt": "Stylized 3D modular stable, Disney style, wooden texture, cartoon aesthetic, clean geometry.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "7fdf49830eac8a66dff8cc07aa797070",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

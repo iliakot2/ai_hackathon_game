@@ -1,0 +1,39 @@
+.hud-root {
+    flex-grow: 1;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.currency-container {
+    align-self: flex-end;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.currency-label {
+    color: white;
+    font-size: 24px;
+    -unity-font-style: bold;
+}
+
+.horse-stats-container {
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.stat-label {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.stat-bar {
+    margin-top: 10px;
+}
+
+.stat-bar .unity-progress-bar__progress {
+    background-color: #4CAF50;
+}
