@@ -1,0 +1,12 @@
+{
+    "asset": "ece14138e7032414f9581eff1379ce29",
+    "fileName": "019d9a9f-52e3-77b2-900a-afcb9739fed4.glb",
+    "prompt": "stylized cartoon bush, Disney Pixar style, rounded leafy shapes, friendly and cute look, single bush mesh",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "0d608dd717a805e35ce22123d8ff21cb",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

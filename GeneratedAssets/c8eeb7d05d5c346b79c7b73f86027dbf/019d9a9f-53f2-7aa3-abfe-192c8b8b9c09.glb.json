@@ -1,0 +1,12 @@
+{
+    "asset": "c8eeb7d05d5c346b79c7b73f86027dbf",
+    "fileName": "019d9a9f-53f2-7aa3-abfe-192c8b8b9c09.glb",
+    "prompt": "stylized cartoon stone, Disney Pixar style, smooth rounded edges, friendly look, single stone mesh",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "b4b38ac72ca23bdfd1d7ebe5594b2e40",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

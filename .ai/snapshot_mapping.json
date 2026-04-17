@@ -65,6 +65,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "create picturesque green lawn in disney style with some flowers and stones andpatches of different color of grass, and couple of bushes",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "33033d11-0b96-41cb-968a-c2c955aeaff4",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "try again",
+      "snapshot_message_type": 0
     }
   ]
 }

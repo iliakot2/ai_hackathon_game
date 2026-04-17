@@ -1,0 +1,12 @@
+{
+    "asset": "9042684a1fd734569910efafe66874fd",
+    "fileName": "019d9a9f-a2b5-74d5-ae70-5d53104127e9.glb",
+    "prompt": "stylized cartoon flower, Disney Pixar style, bright colorful petals, friendly and cute look, single flower mesh",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "87300da868aca1adb2597a095a88e236",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
