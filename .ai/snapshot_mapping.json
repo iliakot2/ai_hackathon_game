@@ -41,6 +41,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "create 3d model of horse in disney -pixar style",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "75142982-fb3c-473a-a525-99b57d046306",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "I've created a new 3D model of a white horse in an elegant **Disney style**. \n\nI followed an expert workflow to ensure high quality:\n1.  **Concept Generation:** Created a 2D design of a friendly, elegant white horse with flowing features.\n2.  **Preparation:** Removed the background to provide a clean reference for the 3D modeler.\n3.  **3D Modeling:** Generated a high-integrity 3D mesh based on the concept.\n\nYou can find the model at: `Assets/Models/Horse_White_Disney.prefab`. \n\nWould you like me to swap this new horse into your test scene, or generate another variation?",
+      "snapshot_message_type": 1
     }
   ]
 }

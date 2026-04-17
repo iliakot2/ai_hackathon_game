@@ -1,0 +1,27 @@
+{
+    "asset": "e0ebf82010b6e46e88bdfbfdb439b85d",
+    "fileName": "019d9a99-1649-7689-b959-3f744e2a482f.jpg",
+    "prompt": "A beautiful white horse, Disney style, expressive eyes, long flowing mane and tail, friendly and elegant, full body, side view, white background, 3D character design.",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "366e9e8a8c46e0140a86cf3c7377263c",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

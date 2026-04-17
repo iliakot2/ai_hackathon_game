@@ -1,0 +1,12 @@
+{
+    "asset": "9637a8fdfd9a44febb5ceb7aaef84c2f",
+    "fileName": "019d9a9b-5ceb-7f43-9953-15615e14ccdd.glb",
+    "prompt": "3D model of a beautiful white horse, Disney style, elegant and friendly, high quality mesh.",
+    "negativePrompt": "",
+    "model": "ad4a4adb-a4bb-4522-952a-13c3f79fa56b",
+    "modelName": "Rodin Hyper 3D Gen2",
+    "customSeed": -1,
+    "w3CTraceId": "b894d6c9d6f4b22c4e2d7ee25dc1d0ae",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
