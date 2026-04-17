@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Style src="MobileMenu.uss" />
+    <ui:VisualElement name="screen-root" class="screen-root">
+        <ui:VisualElement name="top-bar" class="top-bar">
+            <ui:VisualElement name="gems-counter" class="counter-container">
+                <ui:VisualElement name="gem-icon" class="counter-icon gem-icon" />
+                <ui:Label text="1,000" class="counter-text" />
+            </ui:VisualElement>
+            <ui:VisualElement name="coins-counter" class="counter-container">
+                <ui:VisualElement name="coin-icon" class="counter-icon coin-icon" />
+                <ui:Label text="5,000" class="counter-text" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="bottom-tabs" class="bottom-tabs">
+            <ui:Button name="tab-home" class="tab-button">
+                <ui:VisualElement name="icon" class="tab-icon home-icon" />
+            </ui:Button>
+            <ui:Button name="tab-horses" class="tab-button">
+                <ui:VisualElement name="icon" class="tab-icon horses-icon" />
+            </ui:Button>
+            <ui:Button name="tab-store" class="tab-button">
+                <ui:VisualElement name="icon" class="tab-icon store-icon" />
+            </ui:Button>
+            <ui:Button name="tab-settings" class="tab-button">
+                <ui:VisualElement name="icon" class="tab-icon settings-icon" />
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
