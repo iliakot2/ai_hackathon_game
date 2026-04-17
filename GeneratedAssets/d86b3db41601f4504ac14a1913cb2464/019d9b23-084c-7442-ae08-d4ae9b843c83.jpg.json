@@ -1,0 +1,27 @@
+{
+    "asset": "d86b3db41601f4504ac14a1913cb2464",
+    "fileName": "019d9b23-084c-7442-ae08-d4ae9b843c83.jpg",
+    "prompt": "Green checkmark icon, stylized, Disney Pixar style, 2D game icon, white background",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "24e9243b0a616c190d39b376b40256d3",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

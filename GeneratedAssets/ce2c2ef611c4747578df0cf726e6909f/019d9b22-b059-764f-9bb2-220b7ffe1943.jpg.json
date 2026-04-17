@@ -1,0 +1,27 @@
+{
+    "asset": "ce2c2ef611c4747578df0cf726e6909f",
+    "fileName": "019d9b22-b059-764f-9bb2-220b7ffe1943.jpg",
+    "prompt": "Stylized cute grey horse head icon, Disney Pixar style, 2D game icon, white background",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "7986c936a893851e2186dfa033d0af6c",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
