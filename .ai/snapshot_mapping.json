@@ -95,6 +95,12 @@
       "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
       "content": "I have successfully added and optimized the **jumping functionality** for the horse.\n\n**Key Updates:**\n1.  **Robust Jumping Logic:** I updated the `HorseController` to handle jumping via both the `PlayerInput` system and direct **Spacebar** detection for maximum responsiveness.\n2.  **Improved Ground Detection:** \n    *   Moved the horse to a new **\"Player\" layer** to prevent it from hitting itself with its own ground-check raycast.\n    *   Added a **Debug Ray** in the Scene View: it will show as **Green** when the horse is grounded and **Red** when airborne.\n3.  **Dynamic Jump:** Increased the `Jump Force` to **8.0** to provide a more expressive, \"Disney-style\" leap.\n\nYou can now press **Spacebar** to make the horse jump. Enter Play Mode to see the new jumping mechanics in action! mode to test it out! mode to test the jumping!",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "26513bfb-65ec-474b-b688-3cc1bf5597b9",
+      "conversation_id": "8b09f62a-5805-4f36-a9b3-c6aa8fd7a636",
+      "content": "Use Horse White Disney and make animation for it with 3 states. First state is idle state and second state is like running, and then also a jumping state when the horse is jumping. Make an animator for it and these three states with transitions between them.",
+      "snapshot_message_type": 0
     }
   ]
 }
